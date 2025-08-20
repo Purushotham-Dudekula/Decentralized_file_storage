@@ -1,0 +1,1 @@
+This project will allow users to upload their photos.That photos will stored in ipfs(interplanatary file system) which gives cid id as the output. Again that cid is is stored in blockchain (avalanche blockchain network). we can retrieve images through the unique hash.
